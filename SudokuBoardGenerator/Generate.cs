@@ -1,6 +1,6 @@
 using System;
 
-class Program {
+class Generate {
   public static void Main(string[] args)
     {
         Grid gameplay = new Grid();
